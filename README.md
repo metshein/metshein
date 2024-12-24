@@ -8,8 +8,7 @@ Olen Mario Metshein, loov arendaja ja tehnoloogiahuviline, kes töötab IT kutse
 
 🎨 Kui mu töö on sind inspireerinud või aidanud, siis võid mind toetada, ostes mulle tassi kohvi! ☕
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/metshein)
-<a href="https://buymeacoffee.com/metshein">
+<a href="https://buymeacoffee.com/metshein" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support-orange?style=flat&logo=buy-me-a-coffee" alt="Buy Me a Coffee">
 </a>
 
