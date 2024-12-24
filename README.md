@@ -4,14 +4,11 @@ Olen Mario Metshein, loov arendaja ja tehnoloogiahuviline, kes töötab IT kutse
 
 ---
 
-## 🚀 Minust lühidalt
+## ☕ Toeta mind
 
-- 🎓 Haridus:
-  - Tallinna Ülikool Haapsalu Kolledž
-  - Tallinna Polütehnikum
-- 💼 Töökoht: IT kutseõpetaja, Haapsalu Kutsehariduskeskus
-- 🌟 Huvialad: Programmeerimine, IoT, graafiline disain, veebiarendus, 3D-modelleerimine
-- 📫 Kontakt: metshein@gmail.com
+🎨 Kui mu töö on sind inspireerinud või aidanud, siis võid mind toetada, ostes mulle tassi kohvi! ☕
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/metshein)
 
 ---
 
@@ -43,14 +40,6 @@ Olen Mario Metshein, loov arendaja ja tehnoloogiahuviline, kes töötab IT kutse
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metshein&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metshein&layout=compact&theme=radical)
-
----
-
-## ☕ Toeta mind
-
-🎨 Kui mu töö on sind inspireerinud või aidanud, siis võid mind toetada, ostes mulle tassi kohvi! ☕
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/metshein)
 
 ---
 
