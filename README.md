@@ -1,32 +1,34 @@
-# 👋 Tere tulemast minu GitHubi profiilile!
+# 👋 Tere maailm!
 
-Olen [Sinu Nimi], tehnoloogiaentusiast ja loov arendaja, kelle kirg on luua praktilisi lahendusi ja jagada teadmisi. Olen aktiivne õppija ning armastan uusi projekte, mis pakuvad väljakutseid.
+Olen Mario Metshein, loov arendaja ja tehnoloogiahuviline, kes töötab IT kutseõpetajana Haapsalu Kutsehariduskeskuses. Minu kirg on jagada teadmisi, luua praktilisi lahendusi ja inspireerida teisi.
 
 ---
 
 ## 🚀 Minust lühidalt
 
-- 🎓 Haridus: [Lisa oma haridus]
-- 💼 Praegune töökoht: [Lisa oma töökoht/tiitel]
+- 🎓 Haridus:
+  - Tallinna Ülikool Haapsalu Kolledž
+  - Tallinna Polütehnikum
+- 💼 Töökoht: IT kutseõpetaja, Haapsalu Kutsehariduskeskus
 - 🌟 Huvialad: Programmeerimine, IoT, graafiline disain, veebiarendus, 3D-modelleerimine
-- 🌍 Asukoht: [Lisa oma asukoht]
-- 📫 Kontakt: [Sinu e-mail või muu kontaktinfo]
+- 📫 Kontakt: metshein@gmail.com
 
 ---
 
 ## 🛠️ Oskused ja tööriistad
 
-### 💻 Programmeerimine:
-- Python, JavaScript, PHP, Java
-- Arduino ja IoT lahendused
-- Andmebaasid: MySQL, Firebase
+### 💻 Programmeerimine ja skriptimine:
+- Python, Tkinter, Godot, PyGame, JavaScript, jQuery, PHP, Java, PowerShell, bash
+- Arduino, ESP ja IoT lahendused
+- Andmebaasid: MySQL, Firebase, SQLite
 
 ### 🎨 Disain ja multimeedia:
-- Adobe Photoshop, Illustrator, Premiere Pro
-- Blender, SketchUp (3D-modelleerimine)
+- Adobe Photoshop, Illustrator, Premiere Pro, AfterEffects, Audition, InDesign
+- SolidEdge, SketchUp
+- Inkscape, Gimp
 
 ### 🌐 Veebiarendus:
-- HTML5, CSS3, Bootstrap, WordPress
+- HTML5, CSS3, Bootstrap, WordPress, Woocommerce
 - REST API ja andmeanalüüs
 
 ### ⚙️ Muud:
@@ -39,52 +41,22 @@ Olen [Sinu Nimi], tehnoloogiaentusiast ja loov arendaja, kelle kirg on luua prak
 
 ## 📈 Minu GitHubi statistika
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinunimi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinunimi&layout=compact&theme=radical)
-
----
-
-## ✨ Erilised projektid ja saavutused
-
-- [Projekti nimi ja link]: Kirjeldus projektist.
-- [Teise projekti nimi ja link]: Kirjeldus.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metshein&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metshein&layout=compact&theme=radical)
 
 ---
 
-## 📫 Kuidas minuga ühendust saada?
+## ☕ Toeta mind
 
-- 🌐 Veebileht: [metshein.com](https://metshein.com)
-- 📧 E-post: [sinu.email@example.com]
-- 💼 LinkedIn: [Sinu LinkedIn profiil]
+🎨 Kui mu töö on sind inspireerinud või aidanud, siis võid mind toetada, ostes mulle tassi kohvi! ☕
 
----
-
-## 🎯 Lisanõuanded profiili täiustamiseks
-
-### 1. **Dünaamilised elemendid:**
-Lisa tööriistu nagu [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) või [Dynamic Badges](https://shields.io/), et muuta profiil atraktiivsemaks.
-
-### 2. **Isikupära:**
-Lisa lõbusad faktid enda kohta – näiteks hobi, lemmikprojekte või midagi, mis paneb külastaja naeratama.
-
-### 3. **Badge'id ja ikoonid:**
-Kasutage ikoonide ja badge'ide lisamiseks `shields.io`, et muuta profiil visuaalselt huvitavamaks:
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sinunimi.sinu-profiil)
-![Code](https://img.shields.io/badge/code-Python-informational)
-
-### 4. **Inspiratsioon teiste profiilidest:**
-Vaata [Awesome GitHub Profile Templates](https://github.com/suryakantamangaraj/AwesomeGithubProfileTemplates) ideede saamiseks.
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/metshein)
 
 ---
 
-## 🔗 Kasulikud tööriistad
+## 🔗 Leia mind veebis
 
-- **[GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/):** Lihtne viis oma profiili loomiseks.
-- **[Dynamic Badges](https://shields.io/):** Ikkaoonide lisamiseks.
-- **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats):** Lisa dünaamilised statistika elemendid.
-- **[Profile README Generator by GitDevTool](https://www.gitdevtool.com/profile):** Teine suurepärane tööriist.
+- 🌐 Veebileht: [metshein.com](https://www.metshein.com)
+- 💼 LinkedIn: [Mario Metshein](https://www.linkedin.com/in/mario-metshein-500476168/)
+- 📧 E-post: metshein@gmail.com
 
----
-
-Sinu lõpliku README peaksid peegeldama sinu oskusi, huve ja projekte. Vali siit, mis sind kõnetab, ja kohanda vastavalt oma eelistustele!
