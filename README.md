@@ -4,7 +4,7 @@ Olen Mario Metshein, loov arendaja ja tehnoloogiahuviline, kes töötab IT kutse
 
 ---
 
-## ☕ Toeta mind
+## ☕ Osta mulle kohvi :)
 
 🎨 Kui mu töö on sind inspireerinud või aidanud, siis võid mind toetada, ostes mulle tassi kohvi! ☕
 
