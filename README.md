@@ -38,8 +38,11 @@ Olen Mario Metshein, loov arendaja ja tehnoloogiahuviline, kes töötab IT kutse
 
 ## 📈 Minu GitHubi statistika
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metshein&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metshein&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=metshein&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=metshein&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=metshein&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=metshein&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=metshein&layout=compact&theme=radical)
 
 ---
 
